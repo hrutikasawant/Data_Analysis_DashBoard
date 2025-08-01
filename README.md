@@ -24,12 +24,14 @@ The dataset includes transactional sales data from Vrinda Store, with fields suc
 
 The dashboard was designed to help answer key sales and customer behavior questions such as:
 
-- 📊 **Compare sales vs. orders** using a single chart
-- 📅 **Which month had the highest sales and number of orders?**
-- 👥 **Who purchased more in 2024 — men or women?**
-- 🚚 **What are the different order statuses in 2024?**
-- 🏆 **Top 10 states contributing the most to overall sales**
-- 👤 **Relation between age and gender based on order count**
-- 📦 **Which sales channel contributed the most to revenue?**
-- 🛍️ **What was the highest-selling product category?**
-- ➕ And more insights through filters and visuals
+- **Compare sales vs. orders** using a single chart
+-  **Which month had the highest sales and number of orders?**
+-  **Who purchased more in 2024 — men or women?**
+- **What are the different order statuses in 2024?**
+- **Top 10 states contributing the most to overall sales**
+-  **Relation between age and gender based on order count**
+-  **Which sales channel contributed the most to revenue?**
+- 🛍 **What was the highest-selling product category?**
+-  And more insights through filters and visuals
+
+
