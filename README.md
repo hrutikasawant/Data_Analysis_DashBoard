@@ -14,6 +14,7 @@ The dataset includes transactional sales data from Vrinda Store, with fields suc
 3.Product information (Category, Size)
 
 4.Financial data (Amount, Currency, B2B indicator)
+
 5.Shipping details (City, State, Country, Postal Code)
 <BR>
  <a href ="https://github.com/hrutikasawant/Data_Analysis_DashBoard/blob/main/Vrinda%20Store%20Data%20Analysis.xlsx">DataSet</a>
