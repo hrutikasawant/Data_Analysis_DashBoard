@@ -45,3 +45,24 @@ The dashboard was designed to help answer key sales and customer behavior questi
 ## 📸 Dashboard
 
 ![Dashboard Screenshot](https://github.com/hrutikasawant/Data_Analysis_DashBoard/blob/main/DashBoard_ScreenShot.png)
+
+## 📈 Project Insights
+
+-  Women customers contribute to **65% of total purchases**, showing a higher buying tendency than men  
+-  **Maharashtra, Karnataka, and Uttar Pradesh** are the top 3 states in terms of sales volume  
+-  The **adult age group (30–49 years)** contributes to **50%** of total sales, making them the most active buyers  
+-  Most products are ordered via **Amazon, Flipkart, and Myntra**, indicating dominant sales channels  
+-  Over **90% of orders were successfully delivered**, reflecting operational efficiency  
+
+---
+
+## ✅ Final Conclusion
+
+To boost Vrinda Store’s sales in 2025, a strategic marketing plan should focus on:
+
+-  **Women aged 30–49 years**  
+-  Living in **Maharashtra, Karnataka, and Uttar Pradesh**  
+
+This segment represents the store’s **most valuable customer base** — often making significant household and lifestyle purchases.  
+A targeted approach with **digital marketing campaigns, personalized promotions**, and **channel-specific offers** can increase engagement and drive revenue growth.
+
