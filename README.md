@@ -7,6 +7,7 @@ The Vrinda Store wants to analyze its **annual sales for 2024** so that the owne
 
 ### 📁 Dataset Used
 The dataset includes transactional sales data from Vrinda Store, with fields such as:
+
 1.Customer demographics (Gender, Age, Age Group)
 
 2.Order details (Order ID, Date, Month, Status, Channel, SKU, Quantity)
