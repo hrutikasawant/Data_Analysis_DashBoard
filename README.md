@@ -42,9 +42,9 @@ The dashboard was designed to help answer key sales and customer behavior questi
 - ✅ Designed an interactive dashboard by merging Pivot Tables into a single view
 - ✅ Applied **Slicers** to make the dashboard dynamic and filterable by multiple dimensions
 
-## 📸 Dashboard
 
-![Dashboard Screenshot](https://github.com/hrutikasawant/Data_Analysis_DashBoard/blob/main/DashBoard_ScreenShot.png)
+
+- <a href ="https://github.com/hrutikasawant/Data_Analysis_DashBoard/blob/main/DashBoard_ScreenShot.png">View DashBoard</a>
 
 ## 📈 Project Insights
 
