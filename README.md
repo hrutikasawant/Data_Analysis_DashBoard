@@ -15,5 +15,5 @@ Product information (Category, Size)
 
 Financial data (Amount, Currency, B2B indicator)
 Shipping details (City, State, Country, Postal Code)
+ <a href ="https://github.com/hrutikasawant/Data_Analysis_DashBoard/blob/main/Vrinda%20Store%20Data%20Analysis.xlsx">DataSet</a>
 
-> 🔗 [Click here to view the GitHub Repository](https://github.com/hrutikasawant/Data_Analysis_DashBoard.git)
