@@ -7,15 +7,15 @@ The Vrinda Store wants to analyze its **annual sales for 2024** so that the owne
 
 ### 📁 Dataset Used
 The dataset includes transactional sales data from Vrinda Store, with fields such as:
-Customer demographics (Gender, Age, Age Group)
+1.Customer demographics (Gender, Age, Age Group)
 
-Order details (Order ID, Date, Month, Status, Channel, SKU, Quantity)
+2.Order details (Order ID, Date, Month, Status, Channel, SKU, Quantity)
 
-Product information (Category, Size)
+3.Product information (Category, Size)
 
-Financial data (Amount, Currency, B2B indicator)
-Shipping details (City, State, Country, Postal Code)
----
+4.Financial data (Amount, Currency, B2B indicator)
+5.Shipping details (City, State, Country, Postal Code)
+<BR>
  <a href ="https://github.com/hrutikasawant/Data_Analysis_DashBoard/blob/main/Vrinda%20Store%20Data%20Analysis.xlsx">DataSet</a>
 
 ### 📌 Key Business Questions Answered (KPIs)
