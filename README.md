@@ -18,3 +18,16 @@ Shipping details (City, State, Country, Postal Code)
 ---
  <a href ="https://github.com/hrutikasawant/Data_Analysis_DashBoard/blob/main/Vrinda%20Store%20Data%20Analysis.xlsx">DataSet</a>
 
+### 📌 Key Business Questions Answered (KPIs)
+
+The dashboard was designed to help answer key sales and customer behavior questions such as:
+
+- 📊 **Compare sales vs. orders** using a single chart
+- 📅 **Which month had the highest sales and number of orders?**
+- 👥 **Who purchased more in 2024 — men or women?**
+- 🚚 **What are the different order statuses in 2024?**
+- 🏆 **Top 10 states contributing the most to overall sales**
+- 👤 **Relation between age and gender based on order count**
+- 📦 **Which sales channel contributed the most to revenue?**
+- 🛍️ **What was the highest-selling product category?**
+- ➕ And more insights through filters and visuals
