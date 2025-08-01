@@ -31,7 +31,14 @@ The dashboard was designed to help answer key sales and customer behavior questi
 - **Top 10 states contributing the most to overall sales**
 -  **Relation between age and gender based on order count**
 -  **Which sales channel contributed the most to revenue?**
-- 🛍 **What was the highest-selling product category?**
+-  **What was the highest-selling product category?**
 -  And more insights through filters and visuals
 
+### 🔄 Process Followed
+
+- ✅ Verified data for missing values, anomalies, and sorted them out
+- ✅ Ensured data consistency in terms of data types, formats, and valid values
+- ✅ Created multiple Pivot Tables based on the key business questions
+- ✅ Designed an interactive dashboard by merging Pivot Tables into a single view
+- ✅ Applied **Slicers** to make the dashboard dynamic and filterable by multiple dimensions
 
